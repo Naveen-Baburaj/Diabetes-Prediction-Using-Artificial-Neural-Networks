@@ -38,9 +38,11 @@ The artificial neural network model is composed of multiple fully connected laye
 
 1. **Prepare the Data**: Preprocess the dataset by normalizing the input features for optimal model performance.
 2. **Train the Model**: Run the training script to train the neural network model on the dataset.
-3. **Make Predictions**: Use the trained model to make predictions on new data.
+3. **Make Predictions**: Use the trained model to make predictions on new data.  
 
-## [Click here to view the project in detail](https://github.com/Naveen-Baburaj/Diabetes-Prediction-Using-Artificial-Neural-Networks/blob/main/Diabetes%20(1).ipynb)
+## [Click here to view the project in detail](https://github.com/Naveen-Baburaj/Diabetes-Prediction-Using-Artificial-Neural-Networks/blob/main/Diabetes%20(1).ipynb)  
+
+
 
 ## Results
 
