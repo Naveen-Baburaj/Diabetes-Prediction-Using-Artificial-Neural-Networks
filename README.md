@@ -8,7 +8,7 @@ Diabetes is a growing global health concern, and early prediction is essential f
 
 ## Dataset
 
-The model is trained on a dataset containing various health metrics for individuals, including:
+The model is trained on Pima Indians Diabetes dataset from Kaggle containing various health metrics for individuals, including:
 - Glucose level
 - Blood pressure
 - Body Mass Index (BMI)
@@ -41,23 +41,11 @@ The artificial neural network model is composed of multiple fully connected laye
 3. **Make Predictions**: Use the trained model to make predictions on new data.
 
 
-## Evaluation Metrics
-
-The model is evaluated using the following metrics:
-- **Accuracy**: Measures the overall correctness of predictions.
-- **Precision**: Assesses how many positive predictions are true positives.
-- **Recall**: Evaluates how well the model identifies actual diabetes cases.
-- **F1-Score**: Balances precision and recall, providing an overall measure of model performance.
 
 ## Results
 
 The neural network model achieved promising results, with high accuracy and balanced precision and recall, making it suitable for early-stage diabetes prediction. The model demonstrates the potential of deep learning in medical data analysis and early health risk detection.
 
-## Future Improvements
-
-- **Feature Engineering**: Explore additional health metrics or derived features for improved accuracy.
-- **Hyperparameter Tuning**: Optimize model parameters (e.g., learning rate, batch size) to enhance model performance.
-- **Explainability**: Implement model interpretability tools (e.g., SHAP, LIME) to explain the impact of features on predictions, which can provide valuable insights to healthcare providers.
 
 ## Technologies Used
 
